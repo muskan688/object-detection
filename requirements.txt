@@ -1,0 +1,4 @@
+numpy<2.3
+ultralytics
+opencv-python
+streamlit
