@@ -1,3 +1,10 @@
 __pycache__/
 output.jpg
 *.pt
+data/
+runs/
+results/failures/
+results/test_*.txt
+results/test_*.yaml
+*.log
+*.err
